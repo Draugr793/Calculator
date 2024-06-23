@@ -6,8 +6,6 @@ CLASS zcl_calculator DEFINITION
   PUBLIC SECTION.
     INTERFACES zif_calculator.
 
-
-  PROTECTED SECTION.
   PRIVATE SECTION.
 
     DATA mv_result TYPE i .
